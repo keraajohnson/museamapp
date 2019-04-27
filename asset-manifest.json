@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/musuemapp/static/css/main.6f3e638b.chunk.css",
+    "main.js": "/musuemapp/static/js/main.6a3fcb89.chunk.js",
+    "main.js.map": "/musuemapp/static/js/main.6a3fcb89.chunk.js.map",
+    "runtime~main.js": "/musuemapp/static/js/runtime~main.b91c74b6.js",
+    "runtime~main.js.map": "/musuemapp/static/js/runtime~main.b91c74b6.js.map",
+    "static/js/2.50f5a3e5.chunk.js": "/musuemapp/static/js/2.50f5a3e5.chunk.js",
+    "static/js/2.50f5a3e5.chunk.js.map": "/musuemapp/static/js/2.50f5a3e5.chunk.js.map",
+    "index.html": "/musuemapp/index.html",
+    "precache-manifest.38e3ca72e0862a32634a617d9b6fa6f1.js": "/musuemapp/precache-manifest.38e3ca72e0862a32634a617d9b6fa6f1.js",
+    "service-worker.js": "/musuemapp/service-worker.js",
+    "static/css/main.6f3e638b.chunk.css.map": "/musuemapp/static/css/main.6f3e638b.chunk.css.map"
+  }
+}
